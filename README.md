@@ -1,16 +1,19 @@
 # ISS
 Signals and Systems project 2020/2021
 
-# Files
+## Files
 liska20.pdf -> protocol
+
 zadanie.pdf -> task
 
-# Folders
-audio -> audio files, before and after processing
+## Folders
+$audio -> audio files, before and after processing
+
 src -> code
 
-# Dependencies
-Python, Jupyter
+## Dependencies
+Python 3.0 (numpy,scipy)
+Jupyter notebook
 
-# Run
-in main branch run 'jupyter notebook'
+## Run
+in main branch run `jupyter notebook`
