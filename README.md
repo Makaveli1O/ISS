@@ -17,3 +17,5 @@ Jupyter notebook
 
 ## Run
 in main branch run `jupyter notebook`
+
+## 28/30 b
